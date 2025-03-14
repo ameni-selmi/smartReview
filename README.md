@@ -23,6 +23,7 @@ SmartReview is a **Microsoft Word Add-in** designed to help users review and imp
 Watch the video below to see SmartReview in action:
 
 [SmartReview Demo](https://drive.google.com/file/d/1SAL2SsC5RCyTZeoShYAamYz_tN3wsmnr/view?usp=sharing)
+
 ---
 
 ## **Getting Started**
