@@ -1,7 +1,6 @@
 # **SmartReview - Word Add-in**
 
-SmartReview is a **Microsoft Word Add-in** designed to help users review and improve their documents. It provides suggestions for improving clarity, grammar, and style, and allows users to apply changes directly within Word.
-
+SmartReview is a **Microsoft Word Add-in** designed to help users review and improve their documents. It provides suggestions for improving clarity, grammar, and style, and allows users to apply changes directly within Word.\n
 ---
 
 ## **Features**
@@ -18,6 +17,11 @@ SmartReview is a **Microsoft Word Add-in** designed to help users review and imp
 - **Tailwind CSS**: Modern and responsive UI design.
 - **Heroicons**: Pre-built icons for a polished look.
 
+---
+## **Video Demo**
+Watch the video below to see SmartReview in action:
+
+[SmartReview Demo](https://drive.google.com/file/d/1SAL2SsC5RCyTZeoShYAamYz_tN3wsmnr/view?usp=sharing)
 ---
 
 ## **Getting Started**
